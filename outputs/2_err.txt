@@ -1,0 +1,15 @@
+06/26/2024 07:21:07 INFO [bazel_utils.py]: Processing 5 changed files
+06/26/2024 07:21:13 INFO [__main__.py]: Detected 3 affected targets
+06/26/2024 07:21:13 DEBUG [__main__.py]: Affected targets:
+    jedi/e2e/events/polaris/api_load_test.py
+    jedi/e2e/infinity/vmware/api_load_test.py
+    jedi/lib/locust/locust_environment.py
+06/26/2024 07:21:15 INFO [__main__.py]: Found 7 dependent build targets
+06/26/2024 07:21:15 INFO [__main__.py]: Dry run build targets:
+    //jedi/e2e/events/polaris:api_load_test
+    //jedi/e2e/events/polaris:api_load_test.py
+    //jedi/e2e/infinity/vmware:api_load_test
+    //jedi/e2e/infinity/vmware:api_load_test.py
+    //jedi/e2e/locust/fixtures:locust
+    //jedi/lib/locust:locust_environment
+    //jedi/lib/locust:locust_environment.py

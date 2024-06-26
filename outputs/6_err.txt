@@ -1,0 +1,43 @@
+06/26/2024 07:21:56 INFO [bazel_utils.py]: Processing 13 changed files
+06/26/2024 07:22:01 INFO [__main__.py]: Detected 2 affected targets
+06/26/2024 07:22:01 DEBUG [__main__.py]: Affected targets:
+    lab/arc_wrapper/__init__.py
+    lab/arc_wrapper/utils/lint_metrics_helper.py
+06/26/2024 07:22:03 INFO [__main__.py]: Found 36 dependent build targets
+06/26/2024 07:22:03 INFO [__main__.py]: Dry run build targets:
+    //lab/arc_wrapper/differentials:arc
+    //lab/arc_wrapper/differentials:port
+    //lab/arc_wrapper/differentials:port_utils
+    //lab/arc_wrapper/differentials:sail
+    //lab/arc_wrapper/differentials:sail_operations
+    //lab/arc_wrapper/pull_requests:arc_cmd_line_wrapper
+    //lab/arc_wrapper/pull_requests:diff
+    //lab/arc_wrapper/pull_requests:land
+    //lab/arc_wrapper/pull_requests:patch
+    //lab/arc_wrapper/pull_requests:sail
+    //lab/arc_wrapper/tests:test_diff
+    //lab/arc_wrapper/tests:test_github_api_helper
+    //lab/arc_wrapper/tests:test_hotfix
+    //lab/arc_wrapper/tests:test_lint_helper
+    //lab/arc_wrapper/tests:test_lint_metrics_helper
+    //lab/arc_wrapper/tests:test_pull_request_helper
+    //lab/arc_wrapper/utils/ghstack:submit
+    //lab/arc_wrapper/utils:coverage
+    //lab/arc_wrapper/utils:general
+    //lab/arc_wrapper/utils:git_helper
+    //lab/arc_wrapper/utils:github_api_helper
+    //lab/arc_wrapper/utils:hotfix
+    //lab/arc_wrapper/utils:lint_helper
+    //lab/arc_wrapper/utils:lint_metrics_helper
+    //lab/arc_wrapper/utils:lint_metrics_helper.py
+    //lab/arc_wrapper/utils:misc
+    //lab/arc_wrapper/utils:pull_request_helper
+    //lab/arc_wrapper/utils:rogers_helper
+    //lab/arc_wrapper/utils:user_interactions
+    //lab/arc_wrapper:__init__
+    //lab/arc_wrapper:__init__.py
+    //lab/arc_wrapper:arc
+    //lab/arc_wrapper:arc.par
+    //lab/arc_wrapper:bazel_coverage
+    //lab/arc_wrapper:bazel_coverage.par
+    //lab/arc_wrapper:constants

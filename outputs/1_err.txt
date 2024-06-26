@@ -1,0 +1,8 @@
+06/26/2024 07:20:57 INFO [bazel_utils.py]: Processing 8 changed files
+06/26/2024 07:21:03 INFO [__main__.py]: Detected 0 affected targets
+06/26/2024 07:21:03 DEBUG [__main__.py]: Affected targets:
+    
+06/26/2024 07:21:03 INFO [__main__.py]: Found 0 dependent build targets
+06/26/2024 07:21:03 INFO [__main__.py]: 5 go files changes detected
+06/26/2024 07:21:03 INFO [__main__.py]: Dry run build targets:
+    

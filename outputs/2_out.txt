@@ -1,0 +1,10 @@
+    jedi/e2e/events/polaris/api_load_test.py
+    jedi/e2e/infinity/vmware/api_load_test.py
+    jedi/lib/locust/locust_environment.py
+    //jedi/e2e/events/polaris:api_load_test
+    //jedi/e2e/events/polaris:api_load_test.py
+    //jedi/e2e/infinity/vmware:api_load_test
+    //jedi/e2e/infinity/vmware:api_load_test.py
+    //jedi/e2e/locust/fixtures:locust
+    //jedi/lib/locust:locust_environment
+    //jedi/lib/locust:locust_environment.py
